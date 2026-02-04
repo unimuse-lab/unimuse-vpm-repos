@@ -1,0 +1,21 @@
+{
+  "name": "UniMuse Lab Repository",
+  "author": "UniMuse.lab",
+  "url": "https://unimuse-lab.github.io/my-vpm-repos/index.json",
+  "packages": {
+    "com.unimuse.b-manager": {
+      "versions": {
+        "1.0.0": {
+          "name": "B-Manager",
+          "displayName": "B-Manager",
+          "description": "BOOTH item management tool for Unity Editor.",
+          "version": "1.0.0",
+          "unity": "2022.3",
+          "author": { "name": "UniMuse.lab" },
+          "url": "https://github.com/unimuse-lab/BManager/archive/refs/tags/v1.0.0.zip",
+          "dependencies": {}
+        }
+      }
+    }
+  }
+}

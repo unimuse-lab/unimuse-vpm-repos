@@ -6,7 +6,7 @@
     "com.unimuse.b-manager": {
       "versions": {
         "1.0.0": {
-          "name": "B-Manager",
+          "name": "com.unimuse.b-manager",
           "displayName": "B-Manager",
           "description": "BOOTH item management tool for Unity Editor.",
           "version": "1.0.0",

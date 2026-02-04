@@ -1,14 +1,14 @@
 {
-  "name": "UniMuse.lab",
+  "name": "Bookmarker",
   "author": "UniMuse.lab",
   "url": "https://unimuse-lab.github.io/unimuse-vpm-repos/Bookmarker/index.json",
   "packages": {
-    "com.unimuse.b-manager": {
+    "com.unimuse.bookmarker": {
       "versions": {
-        "1.0.0": {
-          "name": "com.unimuse.b-manager",
-          "displayName": "B-Manager",
-          "description": "BOOTH item management tool for Unity Editor.",
+        "1.1.2": {
+          "name": "com.unimuse.bookmarker",
+          "displayName": "Bookmarker",
+          "description": "Asset bookmarking tool for Unity Editor.",
           "version": "1.0.0",
           "unity": "2022.3",
           "author": { "name": "UniMuse.lab" },

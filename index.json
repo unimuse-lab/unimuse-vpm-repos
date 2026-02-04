@@ -1,7 +1,7 @@
 {
   "name": "UniMuse Lab Repository",
   "author": "UniMuse.lab",
-  "url": "https://unimuse-lab.github.io/my-vpm-repos/index.json",
+  "url": "https://unimuse-lab.github.io/unimuse-vpm-repos/index.json",
   "packages": {
     "com.unimuse.b-manager": {
       "versions": {

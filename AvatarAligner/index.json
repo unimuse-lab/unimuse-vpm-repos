@@ -16,6 +16,18 @@
           },
           "url": "https://github.com/unimuse-lab/AvatarAligner/releases/download/v0.1.0/com.unimuse.avatar-aligner-v0.1.0.zip",
           "dependencies": {}
+        },
+        "0.2.0": {
+          "name": "com.unimuse.avatar-aligner",
+          "displayName": "Avatar Aligner",
+          "description": "A tool to align VRChat avatars at equal intervals in the Unity Editor.",
+          "version": "0.2.0",
+          "unity": "2022.3",
+          "author": {
+            "name": "UniMuse.lab"
+          },
+          "url": "https://github.com/unimuse-lab/AvatarAligner/releases/download/v0.2.0/com.unimuse.avatar-aligner-v0.2.0.zip",
+          "dependencies": {}
         }
       }
     }

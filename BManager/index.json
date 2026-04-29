@@ -44,7 +44,7 @@
           "author": { "name": "UniMuse.lab" },
           "url": "https://github.com/unimuse-lab/BManager/releases/download/v1.2.0/com.unimuse.bmanager-v1.2.0.zip",
           "dependencies": {}
-        },
+        }
       }
     }
   }

@@ -44,6 +44,16 @@
           "author": { "name": "UniMuse.lab" },
           "url": "https://github.com/unimuse-lab/BManager/releases/download/v1.2.0/com.unimuse.bmanager-v1.2.0.zip",
           "dependencies": {}
+        },
+        "1.2.1": {
+          "name": "com.unimuse.bmanager",
+          "displayName": "BManager",
+          "description": "BOOTH item management tool for Unity Editor.",
+          "version": "1.2.1",
+          "unity": "2022.3",
+          "author": { "name": "UniMuse.lab" },
+          "url": "https://github.com/unimuse-lab/BManager/releases/download/v1.2.1/com.unimuse.bmanager-v1.2.1.zip",
+          "dependencies": {}
         }
       }
     }
